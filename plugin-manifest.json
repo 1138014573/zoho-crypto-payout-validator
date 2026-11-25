@@ -1,0 +1,20 @@
+{
+  "locale": [
+    "en"
+  ],
+  "service": "CRM",
+  "storage": true,
+  "modules": [
+    {
+      "location": "crm.custom_button",
+      "url": "/app/widget.html"
+    }
+  ],
+  "title": "AllSwap Crypto Payout Address & Memo Validator",
+  "name": "zoho_crypto_payout_validator",
+  "version": "1.0.0",
+  "description": "Validates cryptocurrency payout addresses across 46 chains (Bitcoin, Solana, TRON, TON, EVM) and enforces required destination tags/memos in Zoho Books & CRM.",
+  "author": "AllSwap Protocol Core Team",
+  "homepage": "https://allswap.io/",
+  "support_email": "support@allswap.io"
+}
